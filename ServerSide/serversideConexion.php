@@ -1,6 +1,6 @@
 <?php
-define("HOST_SS","localhost");
-define("DATABASE_SS","inventario");
-define("USER_SS","root");
-define("PASSWORD_SS","");
+define("HOST_SS","sql212.epizy.com");
+define("DATABASE_SS","epiz_28509190_inventario");
+define("USER_SS","epiz_28509190");
+define("PASSWORD_SS","wIcUXATEvoexJB");
 ?>
